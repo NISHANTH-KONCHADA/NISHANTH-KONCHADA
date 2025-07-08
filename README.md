@@ -1,13 +1,13 @@
 ->👋 Hi, I'm Nishanth Konchada
 
-🎥 Video Editor | 🎨 Designer | 💻 Developer  
+💻 Cs Student | 🎨 Designer | 🎥 Video Editor 
 Passionate about crafting engaging stories through visual content and building creative digital experiences.
 
 -> What I Do
 
+- 💻 **Tech Projects** — Python, C++, Web Dev
 - 🎬 **Video Editing** — DaVinci Resolve | Premiere Pro  
-- 🎨 **Designing** — Photoshop | Illustrator | Canva  
-- 💻 **Tech Projects** — Python, C++, Web Dev  
+- 🎨 **Designing** — Photoshop | Illustrator | Canva   
 
 -> Currently Exploring
 
