@@ -37,17 +37,23 @@ Passionate about crafting engaging stories through visual content and building c
 
 - 👯 I’m looking to collaborate on **Creative frontend projects that involve **micro-interactions**, **animations**, or **unique user experiences**.**
 
-- 👨‍💻 All of my projects are available at [under cons](under cons)
-
 - 💬 Ask me about **React • Vue • GSAP • UI/UX • Page transitions • Scroll-based animations**
 
 - 📫 How to reach me ****contactnishanthk@gmail.com****
+  
+- 💻 **Tech Projects** — Python, C++, Web Dev
+  
+- 🎬 **Video Editing** — DaVinci Resolve | Premiere Pro
+  
+- 🎨 **Designing** — Photoshop | Illustrator | Canva   
 
 - 📄 Know about my experiences [https://koderra.io/portfolio/311f73af-00ab-4122-8bc5-1c907c69e8ed](https://koderra.io/portfolio/311f73af-00ab-4122-8bc5-1c907c69e8ed)
 
+- 💻 my portfolio: https://nishanth-konchada.vercel.app/
+
 - ⚡ Fun fact **I obsess over tiny UI details no one notices — and I love it**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
