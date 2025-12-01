@@ -33,17 +33,11 @@ Passionate about crafting engaging stories through visual content and building c
 <h1 align="center">Hi 👋, I'm Nishanth</h1>
 <h3 align="center">Frontend Alchemist • Interface Storyteller • Animation Nerd</h3>
 
-- 🔭 I’m currently working on **A personal UI library called **PixelCraft UI** — a collection of reusable, animated frontend components.**
-
 - 🌱 I’m currently learning ****Next.js**, **TypeScript**, and digging deeper into **Framer Motion** for production-grade motion design.**
 
 - 👯 I’m looking to collaborate on **Creative frontend projects that involve **micro-interactions**, **animations**, or **unique user experiences**.**
 
-- 🤝 I’m looking for help with **Scaling my open-source animation playground and improving performance for complex GSAP timelines.**
-
 - 👨‍💻 All of my projects are available at [under cons](under cons)
-
-- 📝 I regularly write articles on [under cons](under cons)
 
 - 💬 Ask me about **React • Vue • GSAP • UI/UX • Page transitions • Scroll-based animations**
 
