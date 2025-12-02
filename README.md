@@ -53,7 +53,14 @@ Passionate about crafting engaging stories through visual content and building c
 
 - ⚡ Fun fact **I obsess over tiny UI details no one notices — and I love it**
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/XhgN2DhG92)
+<div align="center">
+
+## Nishanth’s LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/XhgN2DhG92?theme=dark&border=0)
+
+</div>
+
 
 
 <p align="left">
