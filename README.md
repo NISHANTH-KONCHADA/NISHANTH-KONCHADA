@@ -76,6 +76,7 @@ Passionate about crafting engaging stories through visual content and building c
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nishanth%20Konchada&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Life%20is%20like%20a%20Github%20repo%20%2C%20if%20you%20don't%20commit;nothing's%20going%20to%20change!" alt="Typing introduction" />
 </p>
@@ -98,18 +99,46 @@ Passionate about crafting engaging stories through visual content and building c
 - 💻 my portfolio: https://nishanth-konchada.vercel.app/
 - ⚡ Fun fact I obsess over tiny UI details no one notices — and I love it
 
+<!-- Side-by-side using table — simple and GitHub-friendly -->
+<table align="center">
+  <tr>
+    <td valign="top" align="center">
+       📊 GitHub Activity
+      <p align="center">
+        <img height="220em"
+             src="https://github-readme-activity-graph.vercel.app/graph?username=NISHANTH-KONCHADA&theme=nightowl&radius=10"
+             alt="NISHANTH-KONCHADA's Activity Graph" />
+      </p>
+      <!-- Optional: GitHub trophies -->
+      <!-- <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=NISHANTH-KONCHADA&theme=onedark&margin-w=10" alt="Trophies" />
+      </p> -->
+    </td>
+    <td valign="top" align="center">
+       🧠 LeetCode Stats
+      <p align="center">
+        <img height="220em"
+             src="https://leetcard.jacoblin.cool/XhgN2DhG92?theme=dark&border=0"
+             alt="LeetCode Stats" />
+      </p>
+      <!-- Optional: smaller LeetCode rank or badges below -->
+    </td>
+  </tr>
+</table>
+ 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
+
+<!-- ## 📊 GitHub Stats & Trophies
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NISHANTH-KONCHADA&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="NISHANTH-KONCHADA's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=NISHANTH-KONCHADA&theme=nightowl&hide_border=true&cache_seconds=86400" alt="NISHANTH-KONCHADA's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NISHANTH-KONCHADA&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nishanth Konchada's GitHub Trophies" />
-</p>
+</p> 
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=NISHANTH-KONCHADA&theme=nightowl&radius=10" alt="NISHANTH-KONCHADA's Activity Graph" />
-</p>
+</p>-->
 
 
 ## 🛠️ Languages & Tools
@@ -141,3 +170,6 @@ Passionate about crafting engaging stories through visual content and building c
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
+
+
+<h1 align="center"><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="50px" width="50px"> Don't distrub my kitty he's locked in!😤</h1>
