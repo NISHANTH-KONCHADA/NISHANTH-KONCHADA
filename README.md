@@ -97,6 +97,7 @@ Passionate about crafting engaging stories through visual content and building c
 - 🎨 Designing — Photoshop | Illustrator | Canva
 - 📄 Know about my experiences https://koderra.io/portfolio/311f73af-00ab-4122-8bc5-1c907c69e8ed
 - 💻 my portfolio: https://nishanth-konchada.vercel.app/
+- 🏎️ f1 theme portfolio: https://nk-inky.vercel.app/
 - ⚡ Fun fact I obsess over tiny UI details no one notices — and I love it
 
 <!-- Side-by-side using table — simple and GitHub-friendly -->
