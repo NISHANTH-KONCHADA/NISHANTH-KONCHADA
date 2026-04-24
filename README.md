@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nishanth%20Konchada&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Life%20is%20like%20a%20Github%20repo%20%2C%20if%20you%20don't%20commit;nothing's%20going%20to%20change!" alt="Typing introduction" />
 </p>
@@ -8,18 +6,18 @@
 
 ---
 
-## 📌 About Me
-- 🎓 **CS Student | Web Developer | Video Editor**
-- 🌱 I’m currently digging deeper into **Next.js, TypeScript, Cloud Architecture**, and **Framer Motion** for production-grade applications.
-- 💡 Exploring: **Edge Computing, Machine Learning, and Mobile App Dev (Flutter)**
-- 👯 I’m looking to collaborate on creative frontend projects, smart scalable architectures, or unique user experiences.
-- ⚡ Fun fact: I obsess over tiny UI details no one notices — and I love it.
-- 📫 How to reach me: **contactnishanthk@gmail.com**
-- 🌐 Check out my portfolio: **[nishantkonchada.dev](https://nishanthkonchada.dev)**
+## <img src="https://api.iconify.design/lucide:user.svg?color=%23F97316" width="28" height="28" align="center" /> About Me
+- <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23F97316" width="18" height="18" align="center" /> **CS Student | Web Developer | Video Editor**
+- <img src="https://api.iconify.design/lucide:code.svg?color=%23F97316" width="18" height="18" align="center" /> I’m currently digging deeper into **Next.js, TypeScript, Cloud Architecture**, and **Framer Motion** for production-grade applications.
+- <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%23F97316" width="18" height="18" align="center" /> Exploring: **Edge Computing, Machine Learning, and Mobile App Dev (Flutter)**
+- <img src="https://api.iconify.design/lucide:users.svg?color=%23F97316" width="18" height="18" align="center" /> I’m looking to collaborate on creative frontend projects, smart scalable architectures, or unique user experiences.
+- <img src="https://api.iconify.design/lucide:zap.svg?color=%23F97316" width="18" height="18" align="center" /> Fun fact: I obsess over tiny UI details no one notices — and I love it.
+- <img src="https://api.iconify.design/lucide:mail.svg?color=%23F97316" width="18" height="18" align="center" /> How to reach me: **contactnishanthk@gmail.com**
+- <img src="https://api.iconify.design/lucide:globe.svg?color=%23F97316" width="18" height="18" align="center" /> Check out my portfolio: **[nishantkonchada.dev](https://nishanthkonchada.dev)**
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%23F97316" width="28" height="28" align="center" /> Featured Projects
 * **[Smart Cafeteria Management System](https://smart-cafeteria.github.io/smart-cafeteria---docs/)** - Intelligent slot booking, food ordering, and real-time crowd tracking built with Flutter, Firebase, AWS, and GCP.
 * **[TrieSuite](https://github.com/NISHANTH-KONCHADA/TrieSuite)** - Advanced implementation of Trie data structures for IP routing, URL routing, DNA matching, and Autocomplete (Python).
 * **EdgeTrust-VANET** - Research-driven project enhancing security for Vehicular Ad Hoc Networks using trust scores and Machine Learning at the edge.
@@ -27,7 +25,7 @@
 
 ---
 
-## 💻 Tech Stack
+## <img src="https://api.iconify.design/lucide:code-2.svg?color=%23F97316" width="28" height="28" align="center" /> Tech Stack
 
 **Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -68,7 +66,7 @@
   <p>
     <a href="https://www.linkedin.com/in/nishanth-konchada/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:contactnishanthk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://nishanthkonchada.dev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://nishantkonchada.dev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://instagram.com/nishanth_konchada"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 </div>
