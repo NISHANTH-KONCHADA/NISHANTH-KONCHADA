@@ -63,27 +63,6 @@
 
 ---
 
-## 📈 Stats & Activity
-
-<table align="center" style="border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td valign="top" align="center" style="border: none; background: transparent;">
-       <b>📊 GitHub Activity</b>
-      <p align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=NISHANTH-KONCHADA&theme=nightowl&radius=10&bg_color=0D1117" alt="Activity Graph" />
-      </p>
-    </td>
-    <td valign="top" align="center" style="border: none; background: transparent;">
-       <b>🧠 LeetCode Stats</b>
-      <p align="center">
-        <img height="220" src="https://leetcard.jacoblin.cool/XhgN2DhG92?theme=dark&border=0&bg=0D1117" alt="LeetCode Stats" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
   <h3>Let's Connect!</h3>
   <p>
@@ -95,7 +74,3 @@
 </div>
 
 <br />
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="40" /> 
-  Don't disturb my kitty, he's locked in! 😤
-</h3>
