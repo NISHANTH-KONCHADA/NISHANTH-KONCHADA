@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on creative frontend projects, smart scalable architectures, or unique user experiences.
 - ⚡ Fun fact: I obsess over tiny UI details no one notices — and I love it.
 - 📫 How to reach me: **contactnishanthk@gmail.com**
-- 🌐 Check out my portfolio: **[nishantkonchada.dev](https://nishantkonchada.dev)**
+- 🌐 Check out my portfolio: **[nishantkonchada.dev](https://nishanthkonchada.dev)**
 
 ---
 
